@@ -16,3 +16,7 @@ redhat官方的文档最权威和全面，下面是三个比较常用的：
 # refactoring 
 
 https://refactoring.com/catalog/changeFunctionDeclaration.html
+
+
+# ss
+https://www.linode.com/docs/networking/diagnostics/ss/
