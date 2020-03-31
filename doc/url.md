@@ -1,7 +1,22 @@
 # Get english book 
-http://gen.lib.rus.ec/
+http://cnx.org/
 
+http://www.nap.edu/
+
+
+http://www.gutenberg.org/
+https://readeasy.org.uk
+http://en.wikibooks.org/wiki/Main_Page
+
+http://www.planetebook.com/
+http://ebookee.org/
 https://b-ok.cc/
+
+http://onlinebooks.library.upenn.edu/
+
+http://www.getfreeebooks.com/
+http://www.bookyards.com/en/welcome
+http://gen.lib.rus.ec/
 
 # Linux power manager
 
