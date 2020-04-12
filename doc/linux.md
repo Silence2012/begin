@@ -7,3 +7,19 @@ https://blog.packagecloud.io/eng/2017/02/06/monitoring-tuning-linux-networking-s
 
 # /proc/stat
 http://www.linuxhowtos.org/System/procstat.htm
+
+```
+%user: Percentage of CPU utilization that occurred while executing at the user level (application).
+
+%nice: Percentage of CPU utilization that occurred while executing at the user level with nice priority.
+
+%system: Percentage of CPU utilization that occurred while executing at the system level (kernel).
+
+%iowait: Percentage of time that the CPU or CPUs were idle during which the system had an outstanding disk I/O request.
+
+%idle: Percentage of time that the CPU or CPUs were idle and the system did not have an outstanding disk I/O request.
+
+Source: http://www.cyberciti.biz/tips/how-do-i-find-out-linux-cpu-utilization.html
+
+See also man mpstat.
+```
