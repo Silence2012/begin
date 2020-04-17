@@ -23,3 +23,5 @@ Source: http://www.cyberciti.biz/tips/how-do-i-find-out-linux-cpu-utilization.ht
 
 See also man mpstat.
 ```
+
+https://linux.die.net/man/7/socket
