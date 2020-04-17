@@ -25,3 +25,13 @@ See also man mpstat.
 ```
 
 https://linux.die.net/man/7/socket
+
+
+
+
+
+multiqueues
+
+http://www.linux-kvm.org/page/Multiqueue
+
+https://gist.github.com/sibiaoluo/11133723
