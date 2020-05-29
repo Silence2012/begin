@@ -33,5 +33,11 @@ https://linux.die.net/man/7/socket
 multiqueues
 
 http://www.linux-kvm.org/page/Multiqueue
-
 https://gist.github.com/sibiaoluo/11133723
+
+
+
+
+
+# linux howto
+https://www.tldp.org/HOWTO/html_single/LVM-HOWTO/
