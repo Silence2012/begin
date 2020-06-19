@@ -13,3 +13,5 @@ https://aws.amazon.com/cn/about-aws/global-infrastructure/
 https://aws.amazon.com/websites
 
 https://aws.amazon.com/compliance
+
+https://12factor.net/
