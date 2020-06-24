@@ -1,4 +1,7 @@
 
+https://www.xml.com/ldd/chapter/book/ch14.html
+
+
 https://blog.packagecloud.io/eng/2016/10/11/monitoring-tuning-linux-networking-stack-receiving-data-illustrated/
 
 https://blog.packagecloud.io/eng/2016/06/22/monitoring-tuning-linux-networking-stack-receiving-data/
