@@ -14,3 +14,9 @@ https://www.privateinternetaccess.com/blog/linux-networking-stack-from-the-groun
 
 https://www.cs.unh.edu/cnrg/people/gherrin/linux-net.html
 
+```
+https://lwn.net/Articles/726917/
+https://lwn.net/Articles/752188/
+```
+
+
